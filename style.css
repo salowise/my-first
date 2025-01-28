@@ -1,0 +1,50 @@
+
+@media(max-width: 700px){
+    .men{
+        height: 100px;
+    }
+}
+
+
+#bash{
+    margin: 10px;
+    display: flex;
+    display: inline-block;
+}
+
+
+.many{
+    background-image: linear-gradient(white, black, rgb(0, 66, 128));
+    height: 300px;
+    width: auto;
+    margin: 10px;
+
+}
+.sly {
+    text-align: center;
+ }
+#fem{
+    padding: 6px;
+    margin-top: -10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.lee{
+    margin-left: 5px;
+}
+.jole{
+    height: 40px;
+    width: 40px;
+    text-decoration: none;
+    margin: 5px;
+    border: 2px solid black;
+}
+.med{
+    text-decoration: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
